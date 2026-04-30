@@ -1,6 +1,6 @@
 # Next Steps
 
-Última atualização: 2026-04-29
+Última atualização: 2026-04-30
 Estado: Bloco A concluído. Bloco B concluído (incluindo B10). Fase 2 completa do lado de implementação — pendente apenas teste end-to-end e aprovação do João (C2).
 
 ---
