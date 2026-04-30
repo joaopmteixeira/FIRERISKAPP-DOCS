@@ -3,7 +3,17 @@
 ## O que é
 
 Software web de avaliação de risco de incêndio em edifícios históricos.
-Método: **CHICHORRO** (FEUP) — desenvolvido por João Teixeira (v3.0) e Rui Sobral (v3.1).
+Método: **CHICHORRO** (FEUP) — sucessão de dissertações de mestrado na Faculdade de Engenharia da Universidade do Porto (FEUP).
+
+**Autores e dissertações:**
+
+| Autor | Ano | Versão | Dissertação |
+|-------|-----|--------|-------------|
+| Daniel Martins | 2015 | v1.0 | [Ver dissertação](https://hdl.handle.net/10216/89100) |
+| Ricardo Ferreira | 2016 | v2.0 | [Ver dissertação](https://hdl.handle.net/10216/83332) |
+| Bruno Silva | 2016 | v2.1 | [Ver dissertação](https://hdl.handle.net/10216/85695) |
+| João Teixeira | 2018 | v3.0 | [Ver dissertação](https://hdl.handle.net/10216/113497) |
+| Rui Sobral | 2019 | v3.1 | [Ver dissertação](https://hdl.handle.net/10216/122003) |
 
 **Stack:**
 - Frontend: React + TypeScript + Vite + Tailwind CSS → Cloudflare Pages
