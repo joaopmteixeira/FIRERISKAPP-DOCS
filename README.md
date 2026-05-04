@@ -24,6 +24,7 @@ O resultado é classificado numa escala de 12 classes, de **A++** (risco muito b
 ## Documentação rápida
 
 - [Visão Geral do Projeto](PROJECT_OVERVIEW.md) — objetivos, stack, estado das fases
+- [PRD](PRD.md) — requisitos de produto, escopo, critérios de aceitação e roadmap
 - [Arquitetura](ARCHITECTURE.md) — estrutura de ficheiros, endpoints, sessionStorage
 - [Próximos Passos](NEXT_STEPS.md) — tarefas em curso e concluídas
 - [Alterações UX/UI](FRONTEND_UX_MODIFICATIONS.md) — histórico de melhorias de interface

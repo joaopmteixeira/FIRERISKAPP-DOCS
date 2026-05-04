@@ -3,6 +3,7 @@
 
 - **Projeto**
   - [Visão Geral](PROJECT_OVERVIEW.md)
+  - [PRD](PRD.md)
   - [Arquitetura](ARCHITECTURE.md)
 
 - **Utilização**

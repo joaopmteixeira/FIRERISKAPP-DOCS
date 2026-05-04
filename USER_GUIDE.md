@@ -74,8 +74,10 @@ Avalia o risco para as pessoas em caso de incêndio, considerando as vias de eva
 Avalia a facilidade de propagação do incêndio pelo edifício.
 
 **Subfatores:**
-- **CF** — Carga de Fogo (materiais presentes)
-- **CA** — Compartimentação e Afastamento (resistência ao fogo de elementos construtivos)
+- **REIC** — Resistência ao Incêndio de Elementos Construtivos
+- **EI** — Estanquidade e Integridade
+- **VDGF** — Vãos, Diedros e Guarda-fogos
+- **PE** — Paredes Exteriores
 - **OGS** — Organização e Gestão da Segurança (planos de prevenção, formação, simulacros)
 
 ### ESCI — Eficácia de Socorro e Combate ao Incêndio
@@ -84,8 +86,12 @@ Avalia a capacidade de deteção e combate ao incêndio.
 
 **Subfatores:**
 - **GP** — Grau de Prontidão (deteção automática)
-- **EXT** — Extintores e Rede de Incêndio Armada
-- **RIA** — Rede de Incêndio Armada e Coluna Seca / Húmida
+- **SID** — Sinalização, Iluminação e Deteção
+- **AE** — Acessibilidade Exterior
+- **HE** — Hidrantes Exteriores
+- **EXT** — Extintores
+- **RIA** — Rede de Incêndio Armada / Coluna Seca
+- **CPB** — Corpo de Bombeiros
 
 ---
 
